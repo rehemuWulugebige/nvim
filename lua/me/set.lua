@@ -1,3 +1,7 @@
+vim.opt.guicursor = "" -- block cursor in every mode
+
+vim.opt.nu = true
+vim.opt.relativenumber = true -- makes 12j / 8k jumps trivial
 
 vim.opt.tabstop = 4
 vim.opt.softtabstop = 4
